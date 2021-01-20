@@ -11,7 +11,7 @@
 ## Installation
 
     git clone https://github.com/dasunpamod/sks-hc-cyh-unlocker
-    cd hcdecryptor
+    cd sks-hc-cyh-unlocker
     pip3 install -r requirements.txt
 
 Install dependencies using `pip install -r requirements.txt`.
