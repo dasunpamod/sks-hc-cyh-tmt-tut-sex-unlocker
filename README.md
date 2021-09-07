@@ -10,7 +10,7 @@
 
 ## Installation
 
-    git clone https://github.com/dasunpamod/sks-hc-cyh-unlocker
+    git clone https://github.com/dasunpamod/sks-hc-cyh-tmt-tut-sex-unlocker/
     cd sks-hc-cyh-tmt-tut-sex-unlocker
     pip3 install -r requirements.txt
 
